@@ -1,0 +1,3 @@
+rootProject.name = 'disable_yellow_box'
+
+include ':app'
